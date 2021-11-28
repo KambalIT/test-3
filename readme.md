@@ -1,0 +1,1 @@
+#dodaj plik readme.md
